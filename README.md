@@ -1,7 +1,8 @@
 How to run:
 ```
-  1. cd tiktokview
-  2. pip install pystyle
-  3. pip install requests
-  4. python viewbot.py
+  1. git clone https://github.com/Agetta/tiktokview.git
+  2. cd tiktokview
+  3. pip install pystyle
+  4. pip install requests
+  5. python viewbot.py
 ```
