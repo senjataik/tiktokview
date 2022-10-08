@@ -1,6 +1,7 @@
 How to run:
 ```
-  1. pip install pystyle
-  2. pip install requests
-  3. python viewbot.py
+  1. cd tiktokview
+  2. pip install pystyle
+  3. pip install requests
+  4. python viewbot.py
 ```
